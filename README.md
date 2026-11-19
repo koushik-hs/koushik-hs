@@ -5,9 +5,10 @@
 I’m a final-year engineering student interested in building **secure, reliable, and practical software systems**.
 
 My primary focus is **cybersecurity**, with a growing interest in **cloud security, backend engineering, and Generative AI**. I enjoy understanding systems from both sides: how they are built, and how they can fail.
+https://koushikhs-portfolio.vercel.app/
 
 I learn best by building things, breaking them in controlled environments, and then figuring out how to make them better.
-https://koushikhs-portfolio.vercel.app/
+
 ---
 
 ## What I Work With
