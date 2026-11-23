@@ -76,9 +76,13 @@ A local-first workspace for searching code and investigating bugs with file-and-
 
 ### NexusGuard-AI
 
-A security-focused AI project exploring intelligent threat detection and analysis.
+A real-time detector for coordinated payment abuse, built for the Razorpay AI Buildathon's AI Risk Manager track. It links accounts, merchants, devices, and IP addresses to find fraud rings whose individual transactions may look ordinary.
 
-**Focus:** Cybersecurity · AI/ML · Python
+* Combines XGBoost, Isolation Forest, and graph rules to score suspicious clusters.
+* Streams risk updates over WebSockets to a React dashboard with an interactive graph explorer.
+* Detected 19 of 19 simulated fraud rings in the project's synthetic benchmark.
+
+**Focus:** Payment Fraud Detection · Graph Analytics · XGBoost · FastAPI · React
 
 [View Project](https://github.com/koushik-hs/NexusGuard-AI)
 
