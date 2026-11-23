@@ -44,21 +44,33 @@ Data Structures & Algorithms · Operating Systems · Computer Networks · DBMS �
 
 ## Featured Work
 
-### Website Defacement Detection
+### ZeroTrust Workspace
 
-A security monitoring system for detecting unauthorized website modifications and website defacement.
+An enterprise-oriented platform exploring **Zero Trust architecture, RBAC, authentication, authorization, and secure workspace access**.
 
-* SHA-256 based file integrity monitoring
-* Baseline creation and comparison
-* Website content and file monitoring
-* Real-time change detection
-* Security alerting and severity classification
-* Controlled attack simulation
-* Flask-based monitoring and testing environment
+* Role-Based Access Control
+* Authentication and authorization
+* Zero Trust security principles
+* Enterprise workspace architecture
+* Secure access management
 
-**Focus:** Web Security · Security Monitoring · Python · Flask · File Integrity
+**Focus:** Zero Trust · IAM · RBAC · TypeScript · Secure Systems
 
-[View Project](https://github.com/koushik-hs/WebsiteDefacementDetection)
+[View Project](https://github.com/koushik-hs/ZeroTrust-Workspace-Enterprise-RBAC-Platform)
+
+---
+
+### RepoSherlock
+
+A local-first workspace for searching code and investigating bugs with file-and-line citations.
+
+* Tree-sitter indexing and hybrid search with BM25 and embeddings
+* Optional Gemini investigations with a source-disclosure preview and explicit approval
+* Single-pass and bounded agentic workflows with validated citations and a local trace
+
+**Focus:** Hybrid RAG · FastAPI · Next.js · Developer Tooling
+
+[View Project](https://github.com/koushik-hs/RepoSherlock)
 
 ---
 
@@ -88,19 +100,23 @@ A hands-on security lab for understanding and analyzing **Man-in-the-Middle atta
 
 ---
 
-### ZeroTrust Workspace
+## Other Work
 
-An enterprise-oriented platform exploring **Zero Trust architecture, RBAC, authentication, authorization, and secure workspace access**.
+### Website Defacement Detection
 
-* Role-Based Access Control
-* Authentication and authorization
-* Zero Trust security principles
-* Enterprise workspace architecture
-* Secure access management
+A security monitoring system for detecting unauthorized website modifications and website defacement.
 
-**Focus:** Zero Trust · IAM · RBAC · TypeScript · Secure Systems
+* SHA-256 based file integrity monitoring
+* Baseline creation and comparison
+* Website content and file monitoring
+* Real-time change detection
+* Security alerting and severity classification
+* Controlled attack simulation
+* Flask-based monitoring and testing environment
 
-[View Project](https://github.com/koushik-hs/ZeroTrust-Workspace-Enterprise-RBAC-Platform)
+**Focus:** Web Security · Security Monitoring · Python · Flask · File Integrity
+
+[View Project](https://github.com/koushik-hs/WebsiteDefacementDetection)
 
 ---
 
